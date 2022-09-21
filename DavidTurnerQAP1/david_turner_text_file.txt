@@ -1,0 +1,2 @@
+My first text file in node js.
+This appends new values to the txt file.
