@@ -1,0 +1,18 @@
+{
+  "name": "davidturnerqap1",
+  "version": "1.0.0",
+  "description": "qap1_global_objects_npm",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon express.js"
+  },
+  "author": "David Turner",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "moment": "^2.29.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
