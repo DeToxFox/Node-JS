@@ -1,0 +1,29 @@
+{
+  "name": "davidturnerqap2",
+  "version": "1.0.0",
+  "description": "qap2_multi_route_http_server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "devStart": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeToxFox/Node-JS.git"
+  },
+  "author": "David Turner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeToxFox/Node-JS/issues"
+  },
+  "homepage": "https://github.com/DeToxFox/Node-JS#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "date-fns": "^2.29.3",
+    "openweather-apis": "^4.4.2",
+    "uuid": "^9.0.0",
+    "weather-js": "^2.0.0"
+  }
+}
